@@ -1,0 +1,41 @@
+[
+  {"symbol": "005930", "company_name": "Samsung Electronics", "company_name_ko": "삼성전자", "market_type": "KOR", "country": "KR", "currency": "KRW", "sector": "Semiconductors", "sector_ko": "반도체", "market_cap": 4000000, "display_order": 1},
+  {"symbol": "000660", "company_name": "SK Hynix", "company_name_ko": "SK하이닉스", "market_type": "KOR", "country": "KR", "currency": "KRW", "sector": "Semiconductors", "sector_ko": "반도체", "market_cap": 1200000, "display_order": 2},
+  {"symbol": "042700", "company_name": "Hanmi Semiconductor", "company_name_ko": "한미반도체", "market_type": "KOR", "country": "KR", "currency": "KRW", "sector": "Semiconductors", "sector_ko": "반도체", "market_cap": 80000, "display_order": 3},
+  {"symbol": "058470", "company_name": "Leeno Industrial", "company_name_ko": "리노공업", "market_type": "KOR", "country": "KR", "currency": "KRW", "sector": "Semiconductors", "sector_ko": "반도체", "market_cap": 30000, "display_order": 4},
+
+  {"symbol": "051910", "company_name": "LG Chem", "company_name_ko": "LG화학", "market_type": "KOR", "country": "KR", "currency": "KRW", "sector": "Battery", "sector_ko": "2차전지", "market_cap": 300000, "display_order": 10},
+  {"symbol": "006400", "company_name": "Samsung SDI", "company_name_ko": "삼성SDI", "market_type": "KOR", "country": "KR", "currency": "KRW", "sector": "Battery", "sector_ko": "2차전지", "market_cap": 250000, "display_order": 11},
+  {"symbol": "247540", "company_name": "Ecopro BM", "company_name_ko": "에코프로비엠", "market_type": "KOR", "country": "KR", "currency": "KRW", "sector": "Battery", "sector_ko": "2차전지", "market_cap": 150000, "display_order": 12},
+  {"symbol": "096770", "company_name": "SK Innovation", "company_name_ko": "SK이노베이션", "market_type": "KOR", "country": "KR", "currency": "KRW", "sector": "Battery", "sector_ko": "2차전지", "market_cap": 120000, "display_order": 13},
+
+  {"symbol": "005380", "company_name": "Hyundai Motor", "company_name_ko": "현대차", "market_type": "KOR", "country": "KR", "currency": "KRW", "sector": "Automobile", "sector_ko": "자동차", "market_cap": 500000, "display_order": 20},
+  {"symbol": "000270", "company_name": "Kia", "company_name_ko": "기아", "market_type": "KOR", "country": "KR", "currency": "KRW", "sector": "Automobile", "sector_ko": "자동차", "market_cap": 350000, "display_order": 21},
+  {"symbol": "012330", "company_name": "Hyundai Mobis", "company_name_ko": "현대모비스", "market_type": "KOR", "country": "KR", "currency": "KRW", "sector": "Automobile", "sector_ko": "자동차", "market_cap": 200000, "display_order": 22},
+
+  {"symbol": "035420", "company_name": "NAVER", "company_name_ko": "네이버", "market_type": "KOR", "country": "KR", "currency": "KRW", "sector": "Internet", "sector_ko": "인터넷", "market_cap": 350000, "display_order": 30},
+  {"symbol": "035720", "company_name": "Kakao", "company_name_ko": "카카오", "market_type": "KOR", "country": "KR", "currency": "KRW", "sector": "Internet", "sector_ko": "인터넷", "market_cap": 200000, "display_order": 31},
+  {"symbol": "259960", "company_name": "Krafton", "company_name_ko": "크래프톤", "market_type": "KOR", "country": "KR", "currency": "KRW", "sector": "Internet", "sector_ko": "인터넷", "market_cap": 100000, "display_order": 32},
+
+  {"symbol": "207940", "company_name": "Samsung Biologics", "company_name_ko": "삼성바이오로직스", "market_type": "KOR", "country": "KR", "currency": "KRW", "sector": "Bio", "sector_ko": "바이오", "market_cap": 600000, "display_order": 40},
+  {"symbol": "068270", "company_name": "Celltrion", "company_name_ko": "셀트리온", "market_type": "KOR", "country": "KR", "currency": "KRW", "sector": "Bio", "sector_ko": "바이오", "market_cap": 250000, "display_order": 41},
+  {"symbol": "128940", "company_name": "Hanmi Pharm", "company_name_ko": "한미약품", "market_type": "KOR", "country": "KR", "currency": "KRW", "sector": "Bio", "sector_ko": "바이오", "market_cap": 60000, "display_order": 42},
+
+  {"symbol": "105560", "company_name": "KB Financial", "company_name_ko": "KB금융", "market_type": "KOR", "country": "KR", "currency": "KRW", "sector": "Finance", "sector_ko": "금융", "market_cap": 280000, "display_order": 50},
+  {"symbol": "055550", "company_name": "Shinhan Financial", "company_name_ko": "신한지주", "market_type": "KOR", "country": "KR", "currency": "KRW", "sector": "Finance", "sector_ko": "금융", "market_cap": 250000, "display_order": 51},
+  {"symbol": "086790", "company_name": "Hana Financial", "company_name_ko": "하나금융지주", "market_type": "KOR", "country": "KR", "currency": "KRW", "sector": "Finance", "sector_ko": "금융", "market_cap": 180000, "display_order": 52},
+
+  {"symbol": "009540", "company_name": "HD Hyundai Heavy Industries", "company_name_ko": "HD현대중공업", "market_type": "KOR", "country": "KR", "currency": "KRW", "sector": "Shipbuilding", "sector_ko": "조선", "market_cap": 200000, "display_order": 60},
+  {"symbol": "042660", "company_name": "Hanwha Ocean", "company_name_ko": "한화오션", "market_type": "KOR", "country": "KR", "currency": "KRW", "sector": "Shipbuilding", "sector_ko": "조선", "market_cap": 100000, "display_order": 61},
+  {"symbol": "010140", "company_name": "Samsung Heavy Industries", "company_name_ko": "삼성중공업", "market_type": "KOR", "country": "KR", "currency": "KRW", "sector": "Shipbuilding", "sector_ko": "조선", "market_cap": 90000, "display_order": 62},
+
+  {"symbol": "012450", "company_name": "Hanwha Aerospace", "company_name_ko": "한화에어로스페이스", "market_type": "KOR", "country": "KR", "currency": "KRW", "sector": "Defense", "sector_ko": "방산", "market_cap": 250000, "display_order": 70},
+  {"symbol": "047810", "company_name": "Korea Aerospace Industries", "company_name_ko": "한국항공우주", "market_type": "KOR", "country": "KR", "currency": "KRW", "sector": "Defense", "sector_ko": "방산", "market_cap": 80000, "display_order": 71},
+  {"symbol": "064350", "company_name": "Hyundai Rotem", "company_name_ko": "현대로템", "market_type": "KOR", "country": "KR", "currency": "KRW", "sector": "Defense", "sector_ko": "방산", "market_cap": 60000, "display_order": 72},
+
+  {"symbol": "034020", "company_name": "Doosan Enerbility", "company_name_ko": "두산에너빌리티", "market_type": "KOR", "country": "KR", "currency": "KRW", "sector": "Energy", "sector_ko": "에너지", "market_cap": 80000, "display_order": 80},
+  {"symbol": "015760", "company_name": "KEPCO", "company_name_ko": "한국전력", "market_type": "KOR", "country": "KR", "currency": "KRW", "sector": "Energy", "sector_ko": "에너지", "market_cap": 150000, "display_order": 81},
+
+  {"symbol": "011170", "company_name": "Lotte Chemical", "company_name_ko": "롯데케미칼", "market_type": "KOR", "country": "KR", "currency": "KRW", "sector": "Chemical", "sector_ko": "화학", "market_cap": 60000, "display_order": 90},
+  {"symbol": "010950", "company_name": "S-Oil", "company_name_ko": "S-Oil", "market_type": "KOR", "country": "KR", "currency": "KRW", "sector": "Chemical", "sector_ko": "화학", "market_cap": 70000, "display_order": 91}
+]

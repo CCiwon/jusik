@@ -1,0 +1,38 @@
+[
+  {"symbol": "NVDA", "company_name": "NVIDIA", "market_type": "US", "country": "US", "currency": "USD", "sector": "Semiconductors", "market_cap": 30000000, "display_order": 1},
+  {"symbol": "AVGO", "company_name": "Broadcom", "market_type": "US", "country": "US", "currency": "USD", "sector": "Semiconductors", "market_cap": 8000000, "display_order": 2},
+  {"symbol": "AMD", "company_name": "Advanced Micro Devices", "market_type": "US", "country": "US", "currency": "USD", "sector": "Semiconductors", "market_cap": 2500000, "display_order": 3},
+  {"symbol": "INTC", "company_name": "Intel", "market_type": "US", "country": "US", "currency": "USD", "sector": "Semiconductors", "market_cap": 900000, "display_order": 4},
+  {"symbol": "QCOM", "company_name": "Qualcomm", "market_type": "US", "country": "US", "currency": "USD", "sector": "Semiconductors", "market_cap": 1500000, "display_order": 5},
+
+  {"symbol": "AAPL", "company_name": "Apple", "market_type": "US", "country": "US", "currency": "USD", "sector": "Big Tech", "market_cap": 35000000, "display_order": 10},
+  {"symbol": "MSFT", "company_name": "Microsoft", "market_type": "US", "country": "US", "currency": "USD", "sector": "Big Tech", "market_cap": 32000000, "display_order": 11},
+  {"symbol": "GOOGL", "company_name": "Alphabet", "market_type": "US", "country": "US", "currency": "USD", "sector": "Big Tech", "market_cap": 22000000, "display_order": 12},
+  {"symbol": "META", "company_name": "Meta Platforms", "market_type": "US", "country": "US", "currency": "USD", "sector": "Big Tech", "market_cap": 16000000, "display_order": 13},
+  {"symbol": "AMZN", "company_name": "Amazon", "market_type": "US", "country": "US", "currency": "USD", "sector": "Big Tech", "market_cap": 23000000, "display_order": 14},
+  {"symbol": "TSLA", "company_name": "Tesla", "market_type": "US", "country": "US", "currency": "USD", "sector": "Big Tech", "market_cap": 9000000, "display_order": 15},
+
+  {"symbol": "XOM", "company_name": "ExxonMobil", "market_type": "US", "country": "US", "currency": "USD", "sector": "Energy", "market_cap": 5000000, "display_order": 20},
+  {"symbol": "CVX", "company_name": "Chevron", "market_type": "US", "country": "US", "currency": "USD", "sector": "Energy", "market_cap": 2800000, "display_order": 21},
+  {"symbol": "COP", "company_name": "ConocoPhillips", "market_type": "US", "country": "US", "currency": "USD", "sector": "Energy", "market_cap": 1300000, "display_order": 22},
+
+  {"symbol": "JPM", "company_name": "JPMorgan Chase", "market_type": "US", "country": "US", "currency": "USD", "sector": "Finance", "market_cap": 7000000, "display_order": 30},
+  {"symbol": "BAC", "company_name": "Bank of America", "market_type": "US", "country": "US", "currency": "USD", "sector": "Finance", "market_cap": 3200000, "display_order": 31},
+  {"symbol": "GS", "company_name": "Goldman Sachs", "market_type": "US", "country": "US", "currency": "USD", "sector": "Finance", "market_cap": 1800000, "display_order": 32},
+
+  {"symbol": "WMT", "company_name": "Walmart", "market_type": "US", "country": "US", "currency": "USD", "sector": "Consumer", "market_cap": 7500000, "display_order": 40},
+  {"symbol": "COST", "company_name": "Costco", "market_type": "US", "country": "US", "currency": "USD", "sector": "Consumer", "market_cap": 4000000, "display_order": 41},
+  {"symbol": "NKE", "company_name": "Nike", "market_type": "US", "country": "US", "currency": "USD", "sector": "Consumer", "market_cap": 1200000, "display_order": 42},
+
+  {"symbol": "JNJ", "company_name": "Johnson & Johnson", "market_type": "US", "country": "US", "currency": "USD", "sector": "Healthcare", "market_cap": 3600000, "display_order": 50},
+  {"symbol": "LLY", "company_name": "Eli Lilly", "market_type": "US", "country": "US", "currency": "USD", "sector": "Healthcare", "market_cap": 7000000, "display_order": 51},
+  {"symbol": "UNH", "company_name": "UnitedHealth", "market_type": "US", "country": "US", "currency": "USD", "sector": "Healthcare", "market_cap": 4500000, "display_order": 52},
+
+  {"symbol": "CAT", "company_name": "Caterpillar", "market_type": "US", "country": "US", "currency": "USD", "sector": "Industrials", "market_cap": 1800000, "display_order": 60},
+  {"symbol": "GE", "company_name": "GE Aerospace", "market_type": "US", "country": "US", "currency": "USD", "sector": "Industrials", "market_cap": 2200000, "display_order": 61},
+  {"symbol": "LMT", "company_name": "Lockheed Martin", "market_type": "US", "country": "US", "currency": "USD", "sector": "Industrials", "market_cap": 1200000, "display_order": 62},
+
+  {"symbol": "NFLX", "company_name": "Netflix", "market_type": "US", "country": "US", "currency": "USD", "sector": "Communication", "market_cap": 4500000, "display_order": 70},
+  {"symbol": "DIS", "company_name": "Walt Disney", "market_type": "US", "country": "US", "currency": "USD", "sector": "Communication", "market_cap": 2000000, "display_order": 71},
+  {"symbol": "T", "company_name": "AT&T", "market_type": "US", "country": "US", "currency": "USD", "sector": "Communication", "market_cap": 1600000, "display_order": 72}
+]
